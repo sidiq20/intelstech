@@ -60,9 +60,9 @@ const Footer = () => {
             <div className="space-y-2 text-blue-200">
               <p>Plot 19, Mufutau Shobola Off Haruna Road</p>
               <p>Ifako-Ijaye, Ogba Lagos, Nigeria</p>
-              <p>charonyeb@gmail.com</p>
-              <p>+234-8060447373</p>
-              <p>+234-9094484447</p>
+              <p>Admin@intelstech.com</p>
+              <p>+2347069196866</p>
+              <p>+2348060447373</p>
             </div>
           </div>
         </div>
