@@ -29,15 +29,14 @@ const Header = () => {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
-          <div className="flex items-center space-x-3">
-            <Shield className="h-8 w-8 text-blue-900" />
-            <div>
-              <h1 className="text-xl font-bold text-blue-900">
-                Intels Technology & Device
-              </h1>
-              <p className="text-xs text-gray-600">Security Solutions</p>
-            </div>
-          </div>
+        <div className="flex items-center space-x-3">
+          <img
+            src="/logo.jpg" // if your file is logo.png
+            alt="Intels Technology & Device"
+            className="h-10 w-auto"
+          />
+        </div>
+
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-8">
